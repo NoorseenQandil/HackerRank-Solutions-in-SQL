@@ -14,4 +14,4 @@ The CITY table is described as follows:
  */
  
 select *
-FROM CITY
+FROM CITY;
