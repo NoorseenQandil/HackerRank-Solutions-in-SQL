@@ -15,4 +15,4 @@ The CITY table is described as follows:
  
 select * 
 from CITY
-where ID = 1661
+where ID = 1661;
